@@ -601,4 +601,8 @@ font-weight: 700;
 .lasttt{
     padding-bottom: 100%;
 }
+.second{
+    padding-left: 190px;
+    padding-right: 0%;
+}
 }
