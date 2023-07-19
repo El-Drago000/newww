@@ -461,6 +461,8 @@ font-weight: 700;
 @media screen and (max-width:576px){
     .nav{
        flex-direction: column;
+       margin-top: 100px;
+       margin-bottom: 100px;
     }
     .first{
         padding-right:100px;
@@ -488,4 +490,115 @@ font-weight: 700;
         
         margin-right: 90px;
     }
+    .gamererporerta{
+        flex-direction: column;
+        padding: 0px;
+    }
+    .goat{
+        font-size: 89px;
+        
+    }
+    .nn{
+        width: 380px;
+    }
+    .fourth-page{
+        flex-direction: column-reverse;
+        padding-left: 0px;
+        width: 100%;
+
+    }
+    .bb{
+        width: 400px ;
+    }
+    .fourth-desc{
+        width: 100%;
+        
+    }
+    .we{
+        padding-right: 90px;
+    }
+    .text{
+       padding-left: 20px;
+    }
+  
+        .card{
+            flex-direction: column;
+            padding-left: 65px;
+        }
+        .playi{
+            flex-direction: column;
+            width: 100%;
+        }
+        .playg{padding-left: 20px;
+            width: 360px;
+        }
+        .playh
+        {
+            position: absolute;
+            width: 30%;
+            
+            
+            bottom:-218rem;
+            left: 0rem;
+
+           
+          
+           
+
+}
+.career{
+    flex-direction: column;
+    width: 380px;
+}
+.careerleft{
+    width: 100%;
+    padding: 10px;
+  
+}
+.career-title{
+    padding-left:90px;
+}
+.cp{
+    font-size: small;
+   
+
+}
+.clistone{
+    padding: 20px;
+}
+
+.cimg{
+    padding-left: 20px;
+    width: 100%;
+}
+.lastone{
+    flex-direction: column;
+    justify-content: flex-start;
+    padding-top: 20px;
+}
+
+.xx{
+    flex-wrap: wrap;
+}
+.xx p{
+    padding: 20px;
+}
+.logo{
+    gap: 20px;
+    padding-bottom: 10px;
+}
+.lasttwo{
+    flex-direction: column;
+    padding-top: 20px;
+}
+.last{
+    display: flex;
+    flex-direction: row;
+}
+.footer{
+    height: 100%;
+}
+.lasttt{
+    padding-bottom: 100%;
+}
 }
