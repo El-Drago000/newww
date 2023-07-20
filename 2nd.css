@@ -38,8 +38,8 @@ nav{
     align-items: center;
     justify-content: space-around;
   
-    margin-left: 240px;
-    margin-right: 240px;
+    margin-left: 150px;
+    margin-right: 150px;
     height: 130px;
     background: #FFF;
     box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.05);
@@ -118,11 +118,31 @@ background-clip: text;
 }
 .gamererporerta{
     display:flex;
+        width: 100%;
         flex-direction: row;
-         padding-left: 13rem; 
-        padding-right: 16rem;
+     
+       
+        
+       
+       
 
 }
+.goat-desc{
+    width: 100%;
+    
+    background-image: url(/Group14.png);
+    padding-left: 11rem;
+}
+.second-section-firstimg{
+    width: 100%;
+        
+  
+      
+  }
+  .nn{
+    width: 80%;
+    
+  }
 .upper{
     color: #534C64;
     font-size: 32px;
@@ -147,11 +167,7 @@ font-weight: 700;
 
     
     }
-    .second-section-firstimg{
-        
-      width: 1005;
-        
-    }
+   
    
     
 
@@ -179,7 +195,7 @@ font-size: 48px;
 font-weight: 700;
 
 }
-.textone , .texttwo {
+.textone  {
     color: #534C64;
 text-align: center;
 
@@ -218,24 +234,59 @@ line-height: 30px;
     justify-content: space-around;
  
 }
-.texttwo{
-    align-items: end;
+.texttwo  {
+    padding: 50px;
+    color: #534C64;
+
+font-size: 18px;
+
+font-weight: 400;
+line-height: 30px;
 
 }
-.playi{
-    width: 100%;
-}
+
 .playh
 {
     position: absolute;
     width: 20%;
     
     
-    bottom:-125rem;
+    bottom:-122rem;
     left: 40rem;
    
   
     
+}
+/* play online start */
+
+
+.playxx{
+    margin-top: 400px;
+    width: 100%;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+  height: 100%;
+  margin-bottom: 200px;
+}
+.play-imgt{
+    width: 100%;
+}
+.playmms{
+    width: 70%;
+    padding-left: 200px;
+}
+.playkkk{
+    position: absolute;
+    width: 20%;
+    
+    
+    bottom:-182rem;
+    left: 44rem;
+
+}
+.playi-desc{
+    padding-right: 70px;
 }
 /*career start  */
 .career{
@@ -322,14 +373,7 @@ padding: 50px;
     width: 250px;
     height: 220px;
 }
-.texttwo{
-    color: #0B0223;
-font-family: Work Sans;
-font-size: 20px;
-font-style: normal;
-font-weight: 600;
-line-height: normal;
-}
+
 .lastone , .lasttwo{
     display: flex;
     flex-direction: row;
@@ -498,6 +542,12 @@ font-weight: 700;
         font-size: 89px;
         
     }
+    .goat-desc{
+        padding-left: 0px;
+    }
+    .play{
+        padding-left: 15px;
+    }
     .nn{
         width: 380px;
     }
@@ -598,11 +648,49 @@ font-weight: 700;
 .footer{
     height: 100%;
 }
-.lasttt{
-    padding-bottom: 100%;
-}
+
 .second{
     padding-left: 190px;
     padding-right: 0%;
 }
+.playmms{
+    width: 100%;
+    padding-left: 10px;
+}
+.playxx{
+    flex-direction: column;
+    margin-top: 200px;
+}
+.playi-desc{
+    padding-right: 0px;
+}
+
+.playh{
+    position: absolute;
+    bottom: -230rem;
+    left: 12rem;
+    width: 100%;
+}
+
+.playk{
+    width: 50%;
+}
+.playg{
+    padding-right: 20px;
+    padding-left: 0px;
+}
+.playkkk{
+    position: absolute;
+    bottom: -300rem;
+    left: 12rem;
+    width: 50%;
+}
+.playmms{
+    width: 90%;
+    
+}
+.nav{
+    margin-right: 30px;
+}
+
 }
