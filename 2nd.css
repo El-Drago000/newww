@@ -409,26 +409,34 @@ padding: 50px;
     border: 2px solid rgb(222, 69, 159);
     border-radius: 50px;
 background: #FFF;
+cursor: pointer;
 }
 .ed:hover{
     border: 2px solid rgb(222, 69, 159);
     border-radius: 50px;
 background: #FFF;
+cursor: pointer;
 }
 .ar:hover{
     border: 2px solid rgb(222, 69, 159);
     border-radius: 50px;
 background: #FFF;
+cursor: pointer;
 }
 .ad:hover{
     border: 2px solid rgb(222, 69, 159);
     border-radius: 50px;
 background: #FFF;
+cursor: pointer;
 }
 .action:hover{
     border: 2px solid rgb(222, 69, 159);
     border-radius: 50px;
 background: #FFF;
+cursor: pointer;
+}
+.card-one:hover{
+    cursor: pointer;
 }
 
 /* footer start */
