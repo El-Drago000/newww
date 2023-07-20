@@ -406,27 +406,27 @@ padding: 50px;
     flex-direction: row;
     gap: 15px;}
 .wo:hover{
-    border: 2px solid skyblue;
+    border: 2px solid rgb(222, 69, 159);
     border-radius: 50px;
 background: #FFF;
 }
 .ed:hover{
-    border: 2px solid skyblue;
+    border: 2px solid rgb(222, 69, 159);
     border-radius: 50px;
 background: #FFF;
 }
 .ar:hover{
-    border: 2px solid skyblue;
+    border: 2px solid rgb(222, 69, 159);
     border-radius: 50px;
 background: #FFF;
 }
 .ad:hover{
-    border: 2px solid skyblue;
+    border: 2px solid rgb(222, 69, 159);
     border-radius: 50px;
 background: #FFF;
 }
 .action:hover{
-    border: 2px solid skyblue;
+    border: 2px solid rgb(222, 69, 159);
     border-radius: 50px;
 background: #FFF;
 }
