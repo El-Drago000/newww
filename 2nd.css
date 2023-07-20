@@ -436,6 +436,8 @@ background: #FFF;
 cursor: pointer;
 }
 .card-one:hover{
+    border: 2px solid rgb(235, 195, 218);
+    box-shadow: 5px 5px 5px #FF42A5;
     cursor: pointer;
 }
 
